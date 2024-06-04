@@ -88,6 +88,20 @@ a {
   justify-content: space-between;
 }
 
+.weather-forecast-date {
+  font-size: 18px;
+  color: rgba(39, 33, 66, 0.4);
+  font-weight: bold;
+}
+
+.weather-forecast-temperature {
+  font-size: 18px;
+}
+
+.weather-forecast-temperature-min {
+  color: rgba(39, 33, 66, 0.4);
+}
+
 footer {
   padding: 20px 0 0 0;
   text-align: center;

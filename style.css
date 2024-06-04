@@ -94,7 +94,7 @@ a {
   margin-top: 15px;
 }
 .weather-forecast-date {
-  font-size: 18px;
+  font-size: 19px;
   color: rgba(39, 33, 66, 0.4);
   font-weight: bold;
   text-align: center;
@@ -107,7 +107,7 @@ a {
 }
 
 .weather-forecast-temperature {
-  font-size: 18px;
+  font-size: 20px;
   text-align: center;
   margin-top: 6px;
 }

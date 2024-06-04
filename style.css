@@ -69,18 +69,18 @@ a {
 .weather-app-icon {
   width: 83px;
   height: 83px;
-  margin-top: 36px;
+  margin-top: 38px;
 }
 .weather-app-temperature-value {
   font-size: 94px;
   font-weight: bold;
   line-height: 83px;
-  margin-top: 14px;
+  margin-top: 28px;
 }
 
 .weather-app-unit {
   margin-top: 40px;
-  font-size: 28px;
+  font-size: 29px;
 }
 
 .weather-app-data {
@@ -114,6 +114,10 @@ a {
 
 .weather-forecast-temperature-min {
   color: rgba(39, 33, 66, 0.4);
+}
+hr {
+  opacity: 0.3;
+  width: 100%;
 }
 
 footer {
